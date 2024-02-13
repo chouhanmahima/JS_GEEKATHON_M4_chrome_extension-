@@ -6,6 +6,12 @@
     font-family: 'Roboto', sans-serif;
 }
 
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .container{
     background-color: #fff;
     width: 350px;
