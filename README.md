@@ -66,3 +66,6 @@ To install the Color Picker Chrome Extension:
 
 ## Compatibility
 The Color Picker Chrome Extension is compatible with Chrome browsers running on Windows, macOS, and Linux platforms.
+
+## Demo
+A live demo of the Color Picker Chrome Extension is available [here](https://chouhanmahima.github.io/JS_GEEKATHON_M4_chrome_extension-/)
